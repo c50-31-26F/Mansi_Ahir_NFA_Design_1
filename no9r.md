@@ -1,0 +1,15 @@
+# Problem 9
+
+## NFA
+
+![NFA for Problem 9](images/n09-nfa.png)
+
+## Batch Run
+
+![Batch run for Problem 9](images/n09-batch.png)
+
+## Gold String
+
+![Hand computation tree](images/n09-tree.png)
+
+![JFLAP traceback](images/n09-trace.png)

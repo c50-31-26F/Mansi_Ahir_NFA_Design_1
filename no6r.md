@@ -1,0 +1,9 @@
+# Problem 6
+
+## NFA
+
+![NFA for Problem 6](images/n06-nfa.png)
+
+## Batch Run
+
+![Batch run for Problem 6](images/n06-batch.png)
